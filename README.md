@@ -1,5 +1,6 @@
 ﻿# Weapon Detection AI System
-https://github.com/italhachaudhary/weapon_detection_app/blob/main/Screenshot%202025-11-26%20075041.png
+![alt text]([http://url/to/img.png](https://github.com/italhachaudhary/weapon_detection_app/blob/main/Screenshot%202025-11-26%20075041.png))
+
 ## Project Description
 The **Weapon Detection AI System** is a specialized computer vision application designed to enhance security and safety measures by automating the identification of dangerous objects—specifically **pistols** and **knives**. This project leverages the power of Deep Learning to perform accurate object detection, providing a technological solution for surveillance analysis and threat assessment.
 
@@ -54,5 +55,6 @@ To make this advanced AI model accessible to users, the project features a respo
 
 ## Purpose
 This system serves as a robust prototype for automated security monitoring, demonstrating how AI can be deployed to assist in preventing violence and ensuring public safety.
+
 
 
